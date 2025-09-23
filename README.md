@@ -39,5 +39,5 @@
 ## 🔗 Contato
 
 - 📧 Email: NN 
-- 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/henrique-oliveira-2721b8287/)  
+- 🔗 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/henrique-oliveira-2721b8287/)  
 - 🌐 Portfólio: NN
