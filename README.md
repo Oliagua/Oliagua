@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Aquele
+# 👋 Olá! Eu sou o Oliagua
 
 💻 **Estudante de Ciência da Computação** | 🔍 Apaixonado por Dados | 🎮 Gamer | 📚 Leitor de Mangá e Livros
 
@@ -38,6 +38,6 @@
 
 ## 🔗 Contato
 
-- 📧 Email: seuemail@exemplo.com  
-- 🔗 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)  
-- 🌐 Portfólio: [Seu Portfolio](https://seusite.com)
+- 📧 Email: NN 
+- 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/henrique-oliveira-2721b8287/)  
+- 🌐 Portfólio: NN
