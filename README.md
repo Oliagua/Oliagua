@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Oliagua
+# 👋 Olá! Eu sou o Henrique
 
 💻 **Estudante de Ciência da Computação** | 🔍 Apaixonado por Dados | 🎮 Gamer | 📚 Leitor de Mangá e Livros
 
